@@ -1,0 +1,24 @@
+body{ 			
+	background: url("vaag.jpg") no-repeat;
+	background-size: cover; 
+}
+
+
+
+button {
+    background-color: #ff0000;
+    border: double;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: underline;
+    display: inline-block;
+    font-size: 15px;
+    margin: 6px 4px;
+    cursor: pointer;
+}
+
+a:hover { 
+    background-color:yellow;
+}
+
